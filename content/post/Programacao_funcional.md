@@ -1,6 +1,6 @@
 ---
 title: "Programação funcional"
-date: 2022-08-14T12:19:24-04:00
+date: "2020-12-23T15:21:54+05:30"
 draft: false
 ---
 
